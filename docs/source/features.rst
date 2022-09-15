@@ -65,7 +65,7 @@ Archives and mirrors checking
 The Maigret database contains not only the original websites, but also mirrors, archives, and aggregators. For example:
 
 - `Reddit BigData search <https://camas.github.io/reddit-search/>`_
-- `Picuki <https://www.picuki.com/>`_, Instagram mirror
+- `Picuki <https://www.easkme.com/2022/07/what-is-picuki.html>`_, Instagram mirror
 - `Twitter shadowban <https://shadowban.eu/>`_ checker
 
 It allows getting additional info about the person and checking the existence of the account even if the main site is unavailable (bot protection, captcha, etc.)
